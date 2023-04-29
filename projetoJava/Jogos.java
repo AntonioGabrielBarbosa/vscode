@@ -1,4 +1,3 @@
-package unidade1.prova.com;
 
 public class Jogos {
 	
